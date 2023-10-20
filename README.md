@@ -44,7 +44,7 @@ npm run build
 npm start
 ```
 
-> NOTE: check the [.env.example](./.env.example)
+> NOTE: check the [.env.example](https://github.com/AlejandroSuero/real-time-chat/blob/main/.env.example)
 > to store your DB information
 
 Then go to http://localhost:3000/ and follow enjoy your chats with other people.
